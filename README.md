@@ -1,5 +1,5 @@
 # testIBM
 
-## Data Science, IBM professional certificate
+## IBM Data Science Professional Certificate
 
 This is a Markdown repository
